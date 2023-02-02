@@ -1,0 +1,5 @@
+12,hh,Java,mm,6
+16,yug,gyu,gyu,8
+11,hyui,hui,yguih,0
+10000,uh,yguhi,ughj,6
+4,gyu,gtr,ygui,0
